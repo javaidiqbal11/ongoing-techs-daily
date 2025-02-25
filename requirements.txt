@@ -1,0 +1,7 @@
+pymilvus
+numpy
+faster_whisper
+gradio
+openai
+together 
+requests
