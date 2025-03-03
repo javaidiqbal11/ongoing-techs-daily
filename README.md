@@ -13,7 +13,7 @@ Welcome to the **Ongoing Techs Daily** repository! This project is designed to h
 
 ## Introduction
 
-The Daily Tasks project provides a set of Python scripts to streamline and automate routine tasks. Whether you're looking to integrate with large language models (LLMs) or perform specific data processing, this repository offers tools to enhance your productivity.
+The Ongoing Techs Daily project provides a set of Python scripts to streamline and automate routine tasks. Whether you're looking to integrate with large language models (LLMs) or perform specific data processing, this repository offers tools to enhance your productivity.
 
 ## Features
 
