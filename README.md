@@ -1,6 +1,6 @@
 # Daily Tasks
 
-Welcome to the **Daily Tasks** repository! This project is designed to help you manage and automate your daily tasks efficiently using Python.
+Welcome to the **Ongoing Techs Daily** repository! This project is designed to help you manage and automate your daily tasks efficiently using Python.
 
 ## Table of Contents
 
