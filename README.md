@@ -27,7 +27,7 @@ To get started with the Daily Tasks project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/javaidiqbal11/daily_tasks.git
+   git clone https://github.com/javaidiqbal11/ongoing-techs-daily.git
    cd daily_tasks
    ```
 
