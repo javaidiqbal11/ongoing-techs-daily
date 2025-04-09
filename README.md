@@ -77,9 +77,4 @@ We welcome contributions to enhance the functionality of this project. To contri
    ```
 5. Open a pull request detailing your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
