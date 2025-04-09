@@ -1,3 +1,5 @@
+# main.py for the different LLM and RAG
+
 from pymilvus import Collection, CollectionSchema, FieldSchema, DataType, connections
 import random
 import numpy as np
