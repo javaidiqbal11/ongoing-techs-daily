@@ -5,7 +5,7 @@ Welcome to the **Ongoing Techs Daily** repository! This project is designed to h
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
+- [Key Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
