@@ -5,3 +5,7 @@ gradio
 openai
 together 
 requests
+
+scikit-learn
+xgboost
+
