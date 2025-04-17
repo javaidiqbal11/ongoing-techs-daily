@@ -58,10 +58,4 @@ async def offer(request):
 app = web.Application()
 app.router.add_post("/offer", offer)
 
-web.run_app(app, port=8080) # Select the available port for the server 
-
-# Note: This server is a basic example and does not handle ICE candidates or other WebRTC features.
-# In a production environment, you should implement ICE candidate handling and error management.
-# Also, ensure you have the necessary permissions to access audio devices and record audio.
-
-
+web.run_app(app, port=8080)
