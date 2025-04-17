@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pymilvus
 numpy
 faster_whisper
@@ -9,3 +10,16 @@ requests
 scikit-learn
 xgboost
 
+=======
+pymilvus
+numpy
+faster_whisper
+gradio
+openai
+together 
+requests
+
+scikit-learn
+xgboost
+
+>>>>>>> fe3148d6ec5888d057b34926b5c4db1ea0d9d59b
