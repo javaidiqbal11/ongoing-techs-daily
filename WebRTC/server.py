@@ -59,3 +59,9 @@ app = web.Application()
 app.router.add_post("/offer", offer)
 
 web.run_app(app, port=8080)
+
+
+# How to run?
+# 1. Install the "Live Server" extension.
+# 2. Right-click on index.html → Click "Open with Live Server".
+# It will serve your HTML at something like: http://127.0.0.1:5500/index.html
